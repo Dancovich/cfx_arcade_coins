@@ -30215,9 +30215,9 @@ O.Wn.prototype={
 $0(){},
 $S:0}
 F.pS.prototype={
-T(a,b){return new S.pF("/",this.gFN(),"Flutter Demo",X.a5g(null,C.n0),null)},
+T(a,b){return new S.pF("/start_oauth",this.gFN(),"Flutter Demo",X.a5g(null,C.n0),null)},
 FO(a){var s,r,q,p=null,o=a.a
-switch(o){case"/":return V.y4(new F.Oh(),p,t.z)
+switch(o){case"/start_oauth":return V.y4(new F.Oh(),p,t.z)
 case"/donations":return V.y4(new F.Oi(t.li.a(a.b)),p,t.z)
 default:s=o==null?p:C.b.b9(o,"/oauth")
 if(s===!0){r=P.adu("test.io"+H.d(o))
